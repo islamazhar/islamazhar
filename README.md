@@ -13,26 +13,4 @@ In particular I develop privacy preserving secure systems by designing novel **p
 
 
 
-
-# :sparkles: Connect with me
-<p align="center">
-  <a href="https://x.com/Mazharul_13" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Saikat" height="50" width="50" />
-  </a>
-  &emsp;
-  <a href="https://www.linkedin.com/in/islamazhar/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Saikat" height="50" width="50" />
-  </a>
-  &emsp;
-  <a href="https://pages.cs.wisc.edu/~mazharul/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Mazharul Website" height="50" width="50" />
-  </a>
-</p>
-
-<!-- # :loudspeaker: What's new
-- :bell: [February 2024] Release the [Official code for Invariant Ranker](https://github.com/microsoft/NeuralInvariantRanker). 
-- :bell: [December 2023] Our work on [Re-ranking Loop Invariants](https://aclanthology.org/2023.findings-emnlp.614.pdf) is published in EMNLP-findings 2023. 
-- :bell: [November 2022] Presented NatGen to FSE in Singapore. 
-- :bell: [September 2022] Joined RiSE team at Microsoft Research as Senior Resercher.  -->
-
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
